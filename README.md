@@ -2,7 +2,7 @@
 Visual research of the shortest path in grid. You can add obstacles and resize the grid.  
 
 ## Dependencias
-SFML  
+SFML[https://www.sfml-dev.org/]  
 
 ## Compile 
 ### Linux
