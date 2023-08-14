@@ -1,4 +1,4 @@
-# ShortestPathfindingDijkstra
+# ShortestPathfinding
 Visual research of the shortest path in grid. You can add obstacles and resize the grid.  
 
 ## Images
